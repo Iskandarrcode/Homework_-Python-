@@ -1,0 +1,6 @@
+4321, Otgan kunlar, Abdulla Qodriy, 30, 35000
+1243, Stiv Jobs, Stiv Jobs, 50, 45000
+2134, Atomic Hebbits, Jems Klir, 100, 70000
+3412, Qonli Yo'rgaklar, Askarlardan, 34, 80000
+2143, Temur Tuzuklari, Amir Temur, 400, 25000
+5678, Qoylmaqom Dada, Bilmayman, 210, 540000

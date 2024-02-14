@@ -1,0 +1,5 @@
+numbers = (5, -3, 4, -2, 1, -9, 8, -6, 7, 0, 4)
+num = int(input("raqam kiriting: "))
+numbers = list(numbers)
+numbers.remove(num)
+print(tuple(numbers))

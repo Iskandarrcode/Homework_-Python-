@@ -1,0 +1,2 @@
+id,name,surname,number,email,password
+907a0fd4-e57f-4d3c-aaff-df136416b1c9,iskandar,iskandarov,(998) 93-758-55-90,iskandarovi542@gmail.com,iskandar2002,2023-12-27 10:13:22

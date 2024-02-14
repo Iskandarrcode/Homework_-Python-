@@ -1,0 +1,5 @@
+a = int(input("a tomonni kiriting: "))
+b = int(input("b tomonni kiriting: "))
+c = int(input("c tomonni kriting: "))
+p = (a + b + c)
+print(f"Perimetr = {p}")
